@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>eonet.jp : 404 NOT FOUND</title>
+<link rel="stylesheet" type="text/css" href="/error/common/css/layout.css">
+<script src="//assets.adobedtm.com/48d3c02f43c0/19133e113765/launch-ff331f6ac220.min.js"></script></head>
+<body bgcolor="#FFFFFF">
+<div class="inner_content">
+
+<a href="https://eonet.jp/" target="_top"><img src="/img/eologo.gif" alt="" border=0></a>
+<p class="warning">404 NOT FOUND</p>
+<p>申し訳ございません。お探しのページは見つかりませんでした。<br>
+
+リンクが切れているか、リクエストが不正確である可能性があります。</p>
+
+<p>The requested URL was not found on this server.</p>
+
+<hr>
+<p><a href="https://eonet.jp/">トップページ</a> - <a href="https://eonet.jp/sitemap.html">サイトマップ</a> - <a href="https://service3.eonet.ne.jp/cgi-bin/inquiry/form.cgi">お問い合わせ</a></p>
+</div>
+<script type="text/javascript">_satellite.pageBottom();</script></body>
+</html>
